@@ -46,7 +46,7 @@ This project will be creating a simple Ikea clone called Fry-Kea, where every pr
 
 Please create a replica of the design provided (viewable through Figma or the images in the figma-images folder), and use the data provided in Data.json.
 
-The Home Screen (Home Screen page in Figma, or home-screen.png) is the main page of the website and displays basic information on all of the furniture listings. Clicking on a listing brings the user to the Listing View (Listing View page in Figma, or listing-view.png), which contains all the data associated with that listing.
+The Home Screen (Home Page in Figma, or home-page.png) is the main page of the website and displays basic information on all of the furniture listings. Clicking on a listing brings the user to the Listing View (Listing View page in Figma, or listing-view.png), which contains all the data associated with that listing.
 
 All images required to create the replica are provided in the img folder.
 
