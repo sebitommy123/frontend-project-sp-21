@@ -88,9 +88,9 @@ Try to style the Home Screen and the Listing View as closely as possible to how 
 
 Take a look at the `submission.md` file before submitting. If you deviated from the instructions or have any feedback, that's the place to put it!
 
-To submit your project, please place your submission into a GitHub repo that is set to private. You will be submitting your code on [Gradescope](https://www.gradescope.com/). If you do not have a Gradescope account, please create one and if you are unable to create one, please email us immediately. The Gradescope course code is `9DW2N5`. You will see two different assignments: `Frontend Technical Project` and `Backend Techinical Project`. _Please only submit to Frontend Technical Project._ You can ignore Backend Technical Project.
+To submit your project, please place your submission into a GitHub repo that is set to private. You will be submitting your code on [Gradescope](https://www.gradescope.com/). If you do not have a Gradescope account, please create one and if you are unable to create one, please email us immediately. The Gradescope course code is `BP347P`. You will see two different assignments: `Frontend Technical Project` and `Backend Techinical Project`. _Please only submit to Frontend Technical Project._ You can ignore Backend Technical Project.
 
-The technical project will be due at 8:00 am PDT on Saturday, September 19th. Clarification emails will only be replied to until 11:59 pm PDT on Friday, September 18ths, so if you have any clarifications, please let us know before then.
+The technical project will be due at 11:59:59 pm PT on Sunday, Febuary 7th.
 
 <br />
 
