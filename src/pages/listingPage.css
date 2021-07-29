@@ -1,0 +1,51 @@
+
+.listingDetails {
+  display: flex;
+  flex-direction: row;
+}
+
+.listingDetails .info {
+  box-sizing: border-box;
+  width: 50%;
+  background-color: rgb(217, 242, 250);
+  padding: 40px 0px 0px 150px;
+}
+
+.listingDetails .title {
+  font-size: 35px;
+  margin-bottom: 6px;
+}
+
+.listingDetails .tags {
+  margin-bottom: 20px;
+}
+
+.listingDetails .description {
+  margin-bottom: 20px;
+  text-align: justify;
+  margin-right: 50px;
+}
+
+.listingDetails .reviewsText {
+  font-size: 26px;
+}
+
+.listingDetails .reviews {
+  overflow-y: scroll;
+  width: 80%;
+  padding: 5px 20px 5px 5px;
+  max-height: 40vh;
+  margin-top: 15px;
+}
+
+.listingDetails .image {
+  width: 50%;
+  height: calc(100vh - 129px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.listingDetails .image img {
+  width: 40%;
+}

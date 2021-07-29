@@ -1,0 +1,32 @@
+
+.navbar {
+  width: 100%;
+  box-sizing: border-box;
+  background-color: black;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 40px 40px;
+  color: white;
+}
+
+.navbar .logo {
+  flex: 1;
+}
+
+.navbar .top {
+  font-size: 14px;
+  display: flex;
+  flex-direction: row;
+}
+
+.navbar .bottom {
+  margin-top: 7px;
+  font-size: 14px;
+  display: flex;
+  flex-direction: row;
+}
+
+.navbar .bottomText {
+  flex: 1;
+}
